@@ -1,3 +1,8 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
@@ -55,7 +60,7 @@ public class MonsterMayhemServer {
                     this.gameSession = new GameSession(gameId);
                     MonsterMayhemServer.games.put(gameId, this.gameSession);
                 } else {
-                    this.gameSession = (GameSession)MonsterMayhemServer.games.get(gameId);
+                    this.gameSession = (GameSession) MonsterMayhemServer.games.get(gameId);
                 }
 
                 this.player = new Player(playerName, this.gameSession.players.size());

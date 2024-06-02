@@ -1,24 +1,18 @@
-import java.util.ArrayList;
-import java.util.List;
-
-
-class Player {
-    String name;
-    List<Monster> monsters;
-    int eliminatedMonsters;
-    int side; // 0 for top, 1 for bottom
-
-    Player(String name, int side) {
-        this.name = name;
-        this.monsters = new ArrayList<>();
-        this.eliminatedMonsters = 0;
-        this.side = side;
+class Vampire extends Monster {
+    Vampire(int x, int y, Player owner) {
+        super(x, y, owner);
     }
 
-    boolean isEliminated() {
-        return eliminatedMonsters >= 11;
+    @Override
+    String getSymbol() {
+        return owner.side == 0 ? "V1" : "V2";
     }
+//    @Override
+//    boolean canMove(int newX, int newY) {
+//        return (x == newX || y == newY || Math.abs(x - newX) == Math.abs(y - newY)) && Math.abs(x - newX) <= 2 && Math.abs(y - newY) <= 2;
+//    }
 }
+
 
 
 
