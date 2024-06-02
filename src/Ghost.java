@@ -1,5 +1,3 @@
-public class Ghost {
-}
 class Ghost extends Monster {
     Ghost(int x, int y, Player owner) {
         super(x, y, owner);
