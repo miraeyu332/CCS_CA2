@@ -4,30 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13dfd2d9-9a71-4f05-8a31-e6512afb5b72" name="Changes" comment="Main class" />
+    <list default="true" id="13dfd2d9-9a71-4f05-8a31-e6512afb5b72" name="Changes" comment="Player Vampire and Werewolf">
+      <change afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameSeesion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "miraeyu332"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;miraeyu332&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/miraeyu332/CCS_CA2.git",
-    "accountId": "4387ef09-4390-4cb6-b9fb-cbb58aa2766b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/miraeyu332/CCS_CA2.git&quot;,
+    &quot;accountId&quot;: &quot;4387ef09-4390-4cb6-b9fb-cbb58aa2766b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2hG0Dl7zq5cmZOZZ1C5ldVQiBFH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,6 +56,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -64,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717204991300</updated>
-      <workItem from="1717204992735" duration="1775000" />
+      <workItem from="1717204992735" duration="3420000" />
     </task>
     <task id="LOCAL-00001" summary="2nd player bulid up">
       <option name="closed" value="true" />
@@ -90,7 +104,39 @@
       <option name="project" value="LOCAL" />
       <updated>1717334475282</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="game Server and Client">
+      <option name="closed" value="true" />
+      <created>1717334819462</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717334819463</updated>
+    </task>
+    <task id="LOCAL-00005" summary="game Server 1">
+      <option name="closed" value="true" />
+      <created>1717335280727</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717335280727</updated>
+    </task>
+    <task id="LOCAL-00006" summary="game Server 1-2">
+      <option name="closed" value="true" />
+      <created>1717335304799</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717335304799</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Player Vampire and Werewolf">
+      <option name="closed" value="true" />
+      <created>1717335463798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717335463798</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +146,10 @@
     <MESSAGE value="2nd player bulid up" />
     <MESSAGE value="making Gamesession, GHost part" />
     <MESSAGE value="Main class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main class" />
+    <MESSAGE value="game Server and Client" />
+    <MESSAGE value="game Server 1" />
+    <MESSAGE value="game Server 1-2" />
+    <MESSAGE value="Player Vampire and Werewolf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Player Vampire and Werewolf" />
   </component>
 </project>
