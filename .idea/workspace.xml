@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13dfd2d9-9a71-4f05-8a31-e6512afb5b72" name="Changes" comment="client with connecting Server">
-      <change afterPath="$PROJECT_DIR$/src/MonsterMayhemGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MonsterMayhemclient.java" afterDir="false" />
+    <list default="true" id="13dfd2d9-9a71-4f05-8a31-e6512afb5b72" name="Changes" comment="moving anad removing the monsters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717204991300</updated>
-      <workItem from="1717204992735" duration="7007000" />
+      <workItem from="1717204992735" duration="8517000" />
     </task>
     <task id="LOCAL-00001" summary="2nd player bulid up">
       <option name="closed" value="true" />
@@ -152,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717337196265</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="moving anad ewmoving the monsters">
+      <option name="closed" value="true" />
+      <created>1717339879202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717339879204</updated>
+    </task>
+    <task id="LOCAL-00011" summary="moving anad removing the monsters">
+      <option name="closed" value="true" />
+      <created>1717340835383</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717340835384</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +183,8 @@
     <MESSAGE value="making source about Board and Gamesession" />
     <MESSAGE value="movement of monster" />
     <MESSAGE value="client with connecting Server" />
-    <option name="LAST_COMMIT_MESSAGE" value="client with connecting Server" />
+    <MESSAGE value="moving anad ewmoving the monsters" />
+    <MESSAGE value="moving anad removing the monsters" />
+    <option name="LAST_COMMIT_MESSAGE" value="moving anad removing the monsters" />
   </component>
 </project>

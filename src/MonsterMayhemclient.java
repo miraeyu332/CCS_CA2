@@ -27,7 +27,7 @@ public class MonsterMayhemclient {
             System.out.println(response);
 
             //Game loop
-            scanner.nextLine(); // consume newLine
+            sc.nextLine(); // consume newLine
             while (true) {
                 System.out.println("Enter command");
                 String command = sc.nextLine();
